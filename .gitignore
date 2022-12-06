@@ -1,0 +1,6 @@
+tmp/
+img/*_backup
+img/*.db
+img/*_Store
+*_old
+*_Store
